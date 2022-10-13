@@ -1,7 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.css";
-/* @import "~mdb-angular-ui-kit/assets/scss/mdb.css"; */
 
 body{
+  color: lightgray;
   font-family: "fantasy", "papyrus";
   background-image: url(../src/assets/peacock.jpg);
   background-size: cover;
