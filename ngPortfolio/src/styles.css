@@ -1,0 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+/* @import "~mdb-angular-ui-kit/assets/scss/mdb.css"; */
+
+body{
+  font-family: "fantasy", "papyrus";
+  background-image: url(../src/assets/peacock.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

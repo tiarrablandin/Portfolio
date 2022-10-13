@@ -1,0 +1,37 @@
+h1, h4, h5, p{
+  color: lightgray;
+}
+
+body {
+  background:
+    linear-gradient(to bottom, rgba(0,0,0, .45), rgba(0,0,0, .85)),
+    url('https://bl3301files.storage.live.com/y4m09o86Jonodo56CSbwHcRpggJ7QfEY6YIS4jHgJxnWo214sjRmPqH-khbmo8EmFiKq6vdFn-lJTF2eY00ddjHh6oo_O8Se_3Ag7z3hC5kGO3VZAdlcZOIIrjhiPWRRPmbLkapczl386b94K8E6-jtJcfLDKtQWjQH0xkPtI5JeU9GycETSzxuQVTYr0J3OCaL?width=3648&height=2736&cropmode=none');
+
+  background-blend-mode: saturation;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  backdrop-filter: blur(100%);
+
+
+
+  height: 100%;
+  width: 100%;
+  margin-right: -12px;
+  overflow: hidden;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, 0);
+  box-shadow: inset 0 0 2rem rgba(0, 0, 0, .4);
+
+}
+
+.card {
+  /* background: gray; */
+  color: lightgray;
+  background-color: rgba(60, 60, 60, 0.50);
+}

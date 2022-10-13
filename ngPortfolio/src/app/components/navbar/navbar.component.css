@@ -1,0 +1,9 @@
+.navbar-scroll .nav-link,
+.navbar-scroll .navbar-toggler {
+  color: #fff;
+}
+
+.icon {
+  position: relative;
+  left: 5px;
+}
